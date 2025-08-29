@@ -1,7 +1,7 @@
 {
   "name": "MernStack_clss",
   "version": "1.0.0",
-  "description": "",
+  "description": "basic of html, css, js, express, react, node, mongo and implementing them",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
